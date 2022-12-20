@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukul singh</h1>
 <h3 align="center">A passionate CSE student from India</h3>
+<img align="right" src="https://media.tenor.com/1j5d_905zRsAAAAC/developer-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul-singh-16&label=Profile%20views&color=0e75b6&style=flat" alt="mukul-singh-16" /> </p>
 
