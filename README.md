@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mukul singh</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1 align="center">Hi 👋, I'm Mukul singh</h1>
 <h3 align="center">A passionate CSE student from India</h3>
+<img align="right" width="300px"  src="https://media.tenor.com/1j5d_905zRsAAAAC/developer-computer.gif" alt="welcome img">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul-singh-16&label=Profile%20views&color=0e75b6&style=flat" alt="mukul-singh-16" width=400px /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul-singh-16&label=Profile%20views&color=0e75b6&style=flat" alt="mukul-singh-16" /> </p>
 
 - 🌱 I’m currently learning **Java, Full stack devlopment**
 
@@ -23,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul-singh-16&show_icons=true&locale=en" alt="mukul-singh-16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukul-singh-16&" alt="mukul-singh-16" /></p>
+
+</body>
+</html>
