@@ -1,4 +1,4 @@
-<img width="100%" height="400px" src="Untitled ‑ Made with FlexClip (2).gif" alt="banner">
+<img width="100%" height="400px" src="pc.gif" alt="banner">
 <h1 align="center">Hi 👋, I'm Mukul singh</h1>
 <h3 align="center">A passionate CSE student from India</h3>
 <img align="right" border-radius:20% width="300px"  src="https://media.tenor.com/1j5d_905zRsAAAAC/developer-computer.gif" alt="welcome img">
