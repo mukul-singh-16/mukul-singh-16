@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukul-singh-16&" alt="mukul-singh-16" /></p>
 
-[![An image of @mukulsingh16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukulsingh16)](https://holopin.io/@mukulsingh16)
